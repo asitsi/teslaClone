@@ -9,7 +9,7 @@ function App() {
       <BrowserRouter>
         <Header />
         <Switch>
-          <Route path="/teslaClone" exact component={Home}></Route>
+          <Route path="/" exact component={Home}></Route>
         </Switch>
       </BrowserRouter>
     </div>
