@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/asitsi.github.io/teslaClone/static/css/main.8bc22219.chunk.css",
+    "main.js": "/asitsi.github.io/teslaClone/static/js/main.f87074be.chunk.js",
+    "main.js.map": "/asitsi.github.io/teslaClone/static/js/main.f87074be.chunk.js.map",
+    "runtime-main.js": "/asitsi.github.io/teslaClone/static/js/runtime-main.88556729.js",
+    "runtime-main.js.map": "/asitsi.github.io/teslaClone/static/js/runtime-main.88556729.js.map",
+    "static/js/2.99923e2b.chunk.js": "/asitsi.github.io/teslaClone/static/js/2.99923e2b.chunk.js",
+    "static/js/2.99923e2b.chunk.js.map": "/asitsi.github.io/teslaClone/static/js/2.99923e2b.chunk.js.map",
+    "index.html": "/asitsi.github.io/teslaClone/index.html",
+    "static/css/main.8bc22219.chunk.css.map": "/asitsi.github.io/teslaClone/static/css/main.8bc22219.chunk.css.map",
+    "static/js/2.99923e2b.chunk.js.LICENSE.txt": "/asitsi.github.io/teslaClone/static/js/2.99923e2b.chunk.js.LICENSE.txt",
+    "static/media/accessories.027ada94.jpg": "/asitsi.github.io/teslaClone/static/media/accessories.027ada94.jpg",
+    "static/media/down-arrow.9b52668f.svg": "/asitsi.github.io/teslaClone/static/media/down-arrow.9b52668f.svg",
+    "static/media/logo.a7b59bc6.svg": "/asitsi.github.io/teslaClone/static/media/logo.a7b59bc6.svg",
+    "static/media/model-3.30651f79.jpg": "/asitsi.github.io/teslaClone/static/media/model-3.30651f79.jpg",
+    "static/media/App.css": "/asitsi.github.io/teslaClone/static/media/model-s.b65171b9.jpg",
+    "static/media/model-x.25937b94.jpg": "/asitsi.github.io/teslaClone/static/media/model-x.25937b94.jpg",
+    "static/media/model-y.30acb76a.jpg": "/asitsi.github.io/teslaClone/static/media/model-y.30acb76a.jpg",
+    "static/media/solar-panel.d7d441d7.jpg": "/asitsi.github.io/teslaClone/static/media/solar-panel.d7d441d7.jpg",
+    "static/media/solar-roof.acfd9045.jpg": "/asitsi.github.io/teslaClone/static/media/solar-roof.acfd9045.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88556729.js",
+    "static/js/2.99923e2b.chunk.js",
+    "static/css/main.8bc22219.chunk.css",
+    "static/js/main.f87074be.chunk.js"
+  ]
+}
