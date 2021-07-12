@@ -136,6 +136,9 @@
   .container .Right_Menu span:nth-child(2) {
     display: none;
   }
+  .Wrap {
+    background-size: 100% 100%;
+  }
 }
 @media (min-width: 551px) and (max-width: 768px) {
   .container .Right_Menu {
@@ -157,6 +160,9 @@
   }
   .container .Right_Menu span:nth-child(2) {
     display: none;
+  }
+  .Wrap {
+    background-size: 100% 100%;
   }
 }
 /* Home */
