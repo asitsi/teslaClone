@@ -245,3 +245,8 @@
     transform: translateY(3px);
   }
 }
+@media (max-width: 768px) {
+  .Wrap {
+    background-size: 100% 100%;
+  }
+}
